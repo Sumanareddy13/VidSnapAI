@@ -61,7 +61,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/VidSnapAI.git
+git clone https://github.com/Sumanareddy13/VidSnapAI.git
 cd VidSnapAI
 Install dependencies
 
